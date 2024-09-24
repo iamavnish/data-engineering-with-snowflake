@@ -17,3 +17,8 @@ Medium
 
 For a fictional burger chain in NY, create a dashboard to analyze company's market share and benchmark it against major competitors.
 
+## Dataset
+
+- Snowflake Marketplace (Free Sample: Cross Shopping Insights - NYC Restaurants)
+- Sales and Revenue data from RareBurger (fictional burger chain in NY)
+
