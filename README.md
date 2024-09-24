@@ -22,3 +22,10 @@ For a fictional burger chain in NY, create a dashboard to analyze company's mark
 - Snowflake Marketplace (Free Sample: Cross Shopping Insights - NYC Restaurants)
 - Sales and Revenue data from RareBurger (fictional burger chain in NY)
 
+## Solution Architecture
+
+![Solution Architecture](https://github.com/user-attachments/assets/ed696ab7-30a5-43bf-a47c-71dfe60b65a7)
+
+
+  
+
