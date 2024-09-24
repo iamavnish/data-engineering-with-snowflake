@@ -11,6 +11,7 @@ Medium
 ## Tech Stack
 
 - Snowflake Data Platform (Trial edition: $400 for 120 days)
+- SQL
 
 
 
