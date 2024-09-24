@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is Proof of Concept for creating a snowsight dashboard (dashboard in Snowflake)
+This is Proof of Concept for creating a Snowsight dashboard (dashboard in Snowflake)
 
 ## PoC Complexity Level
 
