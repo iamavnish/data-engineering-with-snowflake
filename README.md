@@ -28,4 +28,7 @@ For a fictional burger chain in NY, create a dashboard to analyze company's mark
 
 Create a table in a virtual warehouse for storing monthly revenue data for all RareBurger outlets in NY city. The table consists of columns like postal code, total spend by all customers, total number of transactions, total number of customer visits, average spend per customer etc for a month for a particular outlet. Load the data which is in a CSV file into this table through Snowflake Web Interface. To enrich this data, get similar data from Snowflake Marketplace for RareBurger's competitors like restaurants selling burgers among other food items in NY city. Combine both the datasets (through SQL Union operator) and create dashboards on top of this dataset for Business Analysis.
   
+## Dashboards
+
+![image](https://github.com/user-attachments/assets/c7e1ddfc-b1c4-41fe-9e4b-dfda505a8f4c)
 
