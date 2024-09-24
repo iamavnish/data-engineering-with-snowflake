@@ -13,7 +13,7 @@ Medium
 - Snowflake Data Platform (Trial edition: $400 for 120 days)
 - SQL
 
-## Use Case
+## Use Case / Problem Statement
 
 For a fictional burger chain in NY, create a dashboard to analyze company's market share and benchmark it against major competitors.
 
